@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36811.4 d17.14
+VisualStudioVersion = 17.14.36811.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module", "Module\Module.csproj", "{CA7E2BEA-0FEE-4EFE-987A-A64A665F73B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubModule", "..\Submodule_anhkdhe186606\SubModule\SubModule\SubModule.csproj", "{0B53D4D9-06AB-42F8-1929-BD0C2A003690}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{CA7E2BEA-0FEE-4EFE-987A-A64A665F73B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA7E2BEA-0FEE-4EFE-987A-A64A665F73B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA7E2BEA-0FEE-4EFE-987A-A64A665F73B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B53D4D9-06AB-42F8-1929-BD0C2A003690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B53D4D9-06AB-42F8-1929-BD0C2A003690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B53D4D9-06AB-42F8-1929-BD0C2A003690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B53D4D9-06AB-42F8-1929-BD0C2A003690}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
