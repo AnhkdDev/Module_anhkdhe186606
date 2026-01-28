@@ -4,8 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-            Console.WriteLine("Đây là module, ko phải submodule");
+            Console.WriteLine("Update module");
         }
     }
 }
